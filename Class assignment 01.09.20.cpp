@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 int age;
 
 int main()
