@@ -12,7 +12,7 @@ int main()
 		std::cout << "You are an adult";
 	}
 	else {
-		std::cout << "You are a teenager, yay!";
+		std::cout << "You are a teenager";
 	}
 }
 
